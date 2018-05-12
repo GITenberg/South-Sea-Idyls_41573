@@ -1,0 +1,36 @@
+_repo: South-Sea-Idyls_41573
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41573-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stoddard, Charles Warren
+    alias: Stoddard, C. W. (Charles Warren)
+    birthdate: 1843
+    deathdate: 1909
+    gutenberg_agent_id: '1170'
+    url: http://www.gutenberg.org/2009/agents/1170
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Warren_Stoddard
+description: ''
+gutenberg_issued: '2012-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41573'
+  lccn: '22014547'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Oceania -- Fiction'
+- !lcc 'PS'
+tableOfContents: 'In the cradle of the deep -- Chumming with a savage -- Taboo: a
+  fête-day in Tahiti -- Joe of Lahaina -- The night-dancers of Waipio -- Pearl-hunting
+  in the Pomotous -- The last of the great navigator -- A canoe-cruise in the coral
+  sea -- Under a grass roof -- My South-Sea show -- The House of the Sun -- The Chapel
+  of the Palms -- Kahéle -- Love-life in a Lanai -- In a transport -- A prodigal in
+  Tahiti.'
+title: South-Sea Idyls
+url: http://www.gutenberg.org/ebooks/41573
